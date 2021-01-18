@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8041bf08-b04e-4fbe-a818-8473dde2b74a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n0z1n79ZNpigPKm8GbehnL2F1w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\lyudmila\AppData\Roaming\npm\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\grokking\chapter_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.select_sort.js">
+    <configuration name="binary_search.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter_1/binary_search.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="select_sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter_2/select_sort.js" working-dir="$PROJECT_DIR$/chapter_2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.select_sort.js" />
+        <item itemvalue="Node.js.chapter1_binary_search.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8041bf08-b04e-4fbe-a818-8473dde2b74a" name="Default Changelist" comment="" />
+      <created>1610541583187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610541583187</updated>
+      <workItem from="1610541584371" duration="12641000" />
+      <workItem from="1610969745334" duration="3795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom" timestamp="1610980469438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610980469438" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center" timestamp="1610980469438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610980469438" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left" timestamp="1610980469438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610980469438" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right" timestamp="1610980469438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610980469438" />
+  </component>
+</project>
