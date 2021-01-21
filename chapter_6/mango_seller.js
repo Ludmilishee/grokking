@@ -3,10 +3,17 @@ function isMangoSeller(person) {
 }
 
 function findNearestMangoSeller(graph) {
+    const checkedPeople = [];
     let searchQueue = graph.you;
 
     while (searchQueue.length) {
         const currentPerson = searchQueue.shift();
+
+        if (checkedPeople.includes(currentPerson)) {
+            continue;
+        }
+        checkedPeople.push(currentPerson);
+
         if (isMangoSeller(currentPerson)) {
             return currentPerson;
         } else {
