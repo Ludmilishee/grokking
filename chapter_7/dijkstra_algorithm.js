@@ -5,8 +5,9 @@ function findCheapestPath(graph) {
     let node = findNearestNode(costs, processed);
     while (node) {
         const nodeCost = costs[node];
+        const neighbors = Object.keys(graph[node]);
 
-        Object.keys(graph[node]).forEach(n => {
+        neighbors.forEach(n => {
             const newValue = nodeCost + graph[node][n];
             if (newValue < costs[n]) {
                 costs[n] = newValue;
