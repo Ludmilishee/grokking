@@ -24,7 +24,6 @@ function findStationsGreedy(stations, states) {
 }
 
 // O(2^n)
-let a = 0;
 function findStationsCombinations(stations, states) {
     const stationList = Object.keys(stations);
 
